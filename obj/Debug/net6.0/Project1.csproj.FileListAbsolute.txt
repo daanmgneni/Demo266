@@ -1,0 +1,15 @@
+D:\VS\leap_year\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\VS\leap_year\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\leap_year\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\VS\leap_year\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\VS\leap_year\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\VS\leap_year\bin\Debug\net6.0\Project1.exe
+D:\VS\leap_year\bin\Debug\net6.0\Project1.deps.json
+D:\VS\leap_year\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\VS\leap_year\bin\Debug\net6.0\Project1.dll
+D:\VS\leap_year\bin\Debug\net6.0\Project1.pdb
+D:\VS\leap_year\obj\Debug\net6.0\Project1.dll
+D:\VS\leap_year\obj\Debug\net6.0\refint\Project1.dll
+D:\VS\leap_year\obj\Debug\net6.0\Project1.pdb
+D:\VS\leap_year\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\VS\leap_year\obj\Debug\net6.0\ref\Project1.dll
